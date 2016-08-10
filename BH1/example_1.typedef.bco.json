@@ -19,7 +19,7 @@
 			}
 		},
 		"tool_used": {
-			"description": "This feild is for describing all information about the specific bioinformatic tools used. Name and version fields are present, as well as the argument field. The argument field is a plural field and should be used for each individual parameter of each tool.",
+			"description": "This field is for describing all information about the specific bioinformatic tools used. Name and version fields are present, as well as the argument field. The argument field is a plural field and should be used for each individual parameter of each tool.",
 			"name": {
 				"_type": "string"
 			},
