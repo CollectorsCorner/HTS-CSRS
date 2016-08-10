@@ -74,7 +74,7 @@
 				"_type": "integer",
 				"_default": 0
 			},
-			"acceptNNNQuaTrheshold": {
+			"acceptNNNQuaThreshold": {
 				"_type": "integer",
 				"_default": 0
 			},
